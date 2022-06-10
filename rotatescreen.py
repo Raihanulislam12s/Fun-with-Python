@@ -1,3 +1,5 @@
+#Go To terminal Then
+       #download
 #pip install rotate-screen
 #pip install pypiwin32
 
